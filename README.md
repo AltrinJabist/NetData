@@ -37,6 +37,10 @@ This project demonstrates how to monitor your system and Docker container metric
 
 ## 📸 Screenshots
 
+🔍 Netdata Metrics View
+
 ![Netdata Metrics](Netdata1.png)
+
+📊 Netdata Dashboard Overview
 
 ![Netdata Dashboard](Netdata2.png)
